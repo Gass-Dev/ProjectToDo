@@ -1,4 +1,5 @@
-# ProjectToDo
+# WebSite ToDoList
+SMART TASK
 
 Stages of the project:
 
@@ -22,4 +23,3 @@ Front-End
 13 - Call API update
 14 - Ajouter d'une features priority for task
 15 - Tester
-16 - 
